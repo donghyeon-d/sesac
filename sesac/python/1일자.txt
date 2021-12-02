@@ -1,0 +1,6 @@
+아나콘다 prompt
+vs코드  IDE
+
+주석 comment  : 파이썬에서는 라인 앞에 # 또는 """ ~~~ """    or    ctrl /
+
+indentation : 들여쓰기 맞춰주는거. 들여쓰기가 단위/범위를 
